@@ -1,0 +1,5 @@
+C:\Users\Roach\Desktop\YuZhenORM\YuZhenORM.Framework\bin\Debug\YuZhenORM.Framework.dll
+C:\Users\Roach\Desktop\YuZhenORM\YuZhenORM.Framework\bin\Debug\YuZhenORM.Framework.pdb
+C:\Users\Roach\Desktop\YuZhenORM\YuZhenORM.Framework\obj\Debug\YuZhenORM.Framework.csprojResolveAssemblyReference.cache
+C:\Users\Roach\Desktop\YuZhenORM\YuZhenORM.Framework\obj\Debug\YuZhenORM.Framework.dll
+C:\Users\Roach\Desktop\YuZhenORM\YuZhenORM.Framework\obj\Debug\YuZhenORM.Framework.pdb

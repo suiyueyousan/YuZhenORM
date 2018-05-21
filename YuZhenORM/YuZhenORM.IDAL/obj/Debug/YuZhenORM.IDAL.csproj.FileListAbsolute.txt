@@ -1,0 +1,7 @@
+C:\Users\Roach\Desktop\YuZhenORM\YuZhenORM.IDAL\bin\Debug\YuZhenORM.IDAL.dll
+C:\Users\Roach\Desktop\YuZhenORM\YuZhenORM.IDAL\bin\Debug\YuZhenORM.IDAL.pdb
+C:\Users\Roach\Desktop\YuZhenORM\YuZhenORM.IDAL\bin\Debug\YuZhenORM.Framework.dll
+C:\Users\Roach\Desktop\YuZhenORM\YuZhenORM.IDAL\bin\Debug\YuZhenORM.Framework.pdb
+C:\Users\Roach\Desktop\YuZhenORM\YuZhenORM.IDAL\obj\Debug\YuZhenORM.IDAL.csprojResolveAssemblyReference.cache
+C:\Users\Roach\Desktop\YuZhenORM\YuZhenORM.IDAL\obj\Debug\YuZhenORM.IDAL.dll
+C:\Users\Roach\Desktop\YuZhenORM\YuZhenORM.IDAL\obj\Debug\YuZhenORM.IDAL.pdb
